@@ -1,0 +1,1 @@
+Sample project of netstandard and ipinfo api
